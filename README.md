@@ -5,11 +5,17 @@ Q1. Write a program that allows users to enter five words (in the form of c-type
 TEST CASES: 
 
 (1)
+
 Enter 5 words:
+
 Word 1: apple
+
 Word 2: grapes
+
 Word 3: kiwi
+
 Word 4: cherry
+
 Word 5: papaya
 
 Concatenated string (alphabetical by first letter):
