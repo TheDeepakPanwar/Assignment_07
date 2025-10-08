@@ -88,6 +88,41 @@ The three largest numbers are:
    
 Q3. Write a function that takes an array an a parameter and modifies every element by multiplying it with the current values of elements before and after it. The element before the first element is considered to be a 1; similarly the element after the last element is also considered a 1. The first is first multiplied, the second element is subsequently multiplied by the new value of the first element and the third element, and so on.
 
+TEST CASES: 
+
+(1)
+
+Enter the number of elements: 3
+
+Enter 3 elements:
+
+23
+
+2
+
+3
+
+Modified array:
+46 276 828 
+
+(2)
+
+Enter the number of elements: 5
+
+Enter 5 elements:
+
+3
+
+4
+
+1
+
+5
+
+2
+
+Modified array:
+12 48 240 2400 4800 
 
 Q4. Write a function that finds that first element that repeats itself in an array.
 
