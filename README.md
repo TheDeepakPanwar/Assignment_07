@@ -22,11 +22,17 @@ Concatenated string (alphabetical by first letter):
 apple cherry grapes kiwi papaya
 
 (2) 
+
 Enter 5 words:
+
 Word 1: bat
+
 Word 2: chess
+
 Word 3: racket
+
 Word 4: basketball
+
 Word 5: golf
 
 Concatenated string (alphabetical by first letter):
