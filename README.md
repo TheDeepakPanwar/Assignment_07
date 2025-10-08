@@ -126,3 +126,37 @@ Modified array:
 
 Q4. Write a function that finds that first element that repeats itself in an array.
 
+TEST CASES: 
+
+(1)
+
+Enter the number of elements: 3
+
+Enter 3 elements:
+
+12
+
+3
+
+24
+
+No repeating elements found.
+
+(2)
+
+Enter the number of elements: 5
+
+Enter 5 elements:
+
+2
+
+4
+
+5
+
+4
+
+1
+
+The first repeating element is: 4
+
